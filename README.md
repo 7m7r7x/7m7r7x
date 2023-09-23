@@ -1,16 +1,24 @@
-### Hi there 👋
+### Prazer! Eu sou o Arthur M. 🧠
 
-<!--
-**7m7r7x/7m7r7x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Github Status](https://github-readme-stats.vercel.app/api?username=7m7r7x&show_icons=true&theme=transparent)
 
-Here are some ideas to get you started:
+![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![](https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+
+![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+
+![](https://aleen42.github.io/badges/src/mitsubishi.svg)
