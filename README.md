@@ -1,6 +1,6 @@
 ### Prazer! Eu sou o A Mairink 🧠
 
-![Github Status](https://github-readme-stats.vercel.app/api?username=7m7r7x&show_icons=true&theme=transparent)
+![Github Status](https://github-readme-stats.vercel.app/api?username=mairinkx&show_icons=true&theme=transparent)
 
 ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
