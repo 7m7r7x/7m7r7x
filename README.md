@@ -1,4 +1,4 @@
-### Prazer! Eu sou o Arthur M. 🧠
+### Prazer! Eu sou o A Mairink 🧠
 
 ![Github Status](https://github-readme-stats.vercel.app/api?username=7m7r7x&show_icons=true&theme=transparent)
 
